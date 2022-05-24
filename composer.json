@@ -1,0 +1,29 @@
+{
+    "name": "xver/persistancedoctrine-component",
+    "type": "library",
+    "description": "Provides data persitance",
+    "keywords": [],
+    "license": "AGPLv3",
+    "require": {
+        "php": "^8.0",
+        "xver/domain-bundle": "0.0.*",
+        "doctrine/doctrine-bundle": "^2.5",
+        "doctrine/orm": "^2.11"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "vimeo/psalm": "^4.22"
+    },
+    "autoload": {
+        "psr-4": { "xVer\\Component\\PersistanceDoctrineComponent\\": "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Tests\\": "tests/" }
+    },
+    "repositories":[
+        {
+            "type": "vcs",
+            "url": "https://github.com/sgurdiel/php-domain-bundle.git"
+        }
+    ]
+}
