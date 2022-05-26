@@ -3,10 +3,10 @@
     "type": "library",
     "description": "Provides data persitance",
     "keywords": [],
-    "license": "AGPLv3",
+    "license": "AGPL-3.0-or-later",
     "require": {
         "php": "^8.0",
-        "xver/domain-bundle": "0.0.*",
+        "xver/domain-bundle": "^0",
         "doctrine/doctrine-bundle": "^2.5",
         "doctrine/orm": "^2.11"
     },
