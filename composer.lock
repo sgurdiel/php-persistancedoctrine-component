@@ -3669,16 +3669,16 @@
         },
         {
             "name": "xver/domain-bundle",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sgurdiel/php-domain-bundle.git",
-                "reference": "84f39fe3acda6030798d631173b39fadc9e7eaef"
+                "reference": "3e323d0d588573c49a92d020889eb9e06ad6636b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sgurdiel/php-domain-bundle/zipball/84f39fe3acda6030798d631173b39fadc9e7eaef",
-                "reference": "84f39fe3acda6030798d631173b39fadc9e7eaef",
+                "url": "https://api.github.com/repos/sgurdiel/php-domain-bundle/zipball/3e323d0d588573c49a92d020889eb9e06ad6636b",
+                "reference": "3e323d0d588573c49a92d020889eb9e06ad6636b",
                 "shasum": ""
             },
             "require": {
@@ -3704,10 +3704,10 @@
             ],
             "description": "Provides a basic domain skeleton",
             "support": {
-                "source": "https://github.com/sgurdiel/php-domain-bundle/tree/0.0.2",
+                "source": "https://github.com/sgurdiel/php-domain-bundle/tree/0.0.3",
                 "issues": "https://github.com/sgurdiel/php-domain-bundle/issues"
             },
-            "time": "2022-05-26T20:18:01+00:00"
+            "time": "2022-05-26T21:21:47+00:00"
         }
     ],
     "packages-dev": [
